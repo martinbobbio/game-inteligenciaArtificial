@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{433922A2-3605-E056-30C5-03D88B9087CC}") = "Final Simulacion FSM", "Assembly-CSharp.csproj", "{CBD9B3F8-88A4-F899-64B9-7E3D8547571B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD9B3F8-88A4-F899-64B9-7E3D8547571B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD9B3F8-88A4-F899-64B9-7E3D8547571B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD9B3F8-88A4-F899-64B9-7E3D8547571B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD9B3F8-88A4-F899-64B9-7E3D8547571B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
